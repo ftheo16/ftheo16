@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @ftheo16
+- 👀 I'm interested in tools that facilitate the use of new technologies.
+- 🌱 I am currently studying at the University of Saint-Étienne.
